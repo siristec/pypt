@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 # Utilisation
 
-url =  'https://www.gnet.tn'
+url =  'https://www.google.fr'
 
 # recuperer la page à scraper
 
